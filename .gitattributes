@@ -1,1 +1,4 @@
 *.index filter=lfs diff=lfs merge=lfs -text
+quran_embed.index filter=lfs diff=lfs merge=lfs -text
+quran_embed_finetune.index filter=lfs diff=lfs merge=lfs -text
+quran_embed_finetuned.index filter=lfs diff=lfs merge=lfs -text
