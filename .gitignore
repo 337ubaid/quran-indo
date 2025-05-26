@@ -2,6 +2,7 @@
 *.index
 *.safetensors
 *.pt
+*.pkl
 *.ckpt
 sbert/search/search-model/
 mono_to_multi_lingual/output/
