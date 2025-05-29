@@ -4,6 +4,8 @@
 *.pt
 *.pkl
 *.ckpt
+.venv/
+indosbert/indo-sbert-finetuned-qa/
 sbert/search/search-model/
 mono_to_multi_lingual/output/
 streamlit/search/search-model/

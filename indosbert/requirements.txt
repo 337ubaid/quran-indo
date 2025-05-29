@@ -1,0 +1,10 @@
+faiss
+matplotlib
+numpy
+pandas
+python-dotenv
+seaborn
+sentence-transformers
+streamlit
+supabase
+torch
