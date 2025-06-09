@@ -22,7 +22,7 @@ for key in ["username", "query",  "model", "index", "query_is_submitted", "feedb
 # get ir
 def get_results(query):
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-    MODEL_PATH = os.path.join(BASE_DIR, "search", "search-model")
+    MODEL_PATH = os.path.join(BASE_DIR, "model-finetune")
     INDEX_PATH = os.path.join(BASE_DIR, "quran_embed_finetune.index")
 
     model = SentenceTransformer(MODEL_PATH)
