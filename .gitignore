@@ -1,7 +1,6 @@
 *.env
 *.index
 *.safetensors
-*.pt
 *.pkl
 *.ckpt
 .venv/
